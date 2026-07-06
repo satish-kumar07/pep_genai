@@ -8,3 +8,7 @@ langchain
 torch
 torchvision
 tqdm
+plotly
+nltk
+wordcloud
+spacy
