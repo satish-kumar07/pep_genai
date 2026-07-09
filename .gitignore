@@ -1,3 +1,10 @@
 .venv/
 datasets/Mnist_dataset/train.csv
 .gitignore
+
+model.h5
+
+
+datasets/glove.6B.100d.txt/
+
+*.txt
